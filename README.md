@@ -11,7 +11,7 @@ A password is said to be valid if it have
 4. atleast 1 number.
 
 # Length of passwod:
-The length of the password is from 8 to 12 which can be change easily.
+The length of the password is minimum of 8 character and maximum of 12 character which is fixed here in this code.
 
 # Execution:
 This python file `Automatic_Password_Generator.ipynb` shows the actual code to acheive the aim of the project.
